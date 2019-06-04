@@ -2,7 +2,7 @@ from smallcalc.tok import Token
 
 EOF = 'EOF'
 EOL = 'EOL'
-INTEGER = 'INTEGER'
+INTEGER = 'integer'
 
 class CalcLexer:
 
